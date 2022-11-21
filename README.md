@@ -9,7 +9,7 @@ Paper covers rock.
 Rock crushes lizard.  
 Lizard poisons Spock.  
 Spock smashes scissors.  
-Scissors decapite lizard.  
+Scissors decapitate lizard.  
 Lizard eats paper.  
 Paper disproves Spock.  
 Spock vaporizes rock.  
